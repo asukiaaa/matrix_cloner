@@ -47,3 +47,5 @@ MIT
 - [RadioButton](https://www.python-izm.com/gui/wxpython/wxpython_radiobutton/)
 - [wxPython - RadioButton & RadioBox](https://www.tutorialspoint.com/wxpython/wx_radiobutton_radiobox.htm)
 - [KiCAD_layout_cloner/layout_cloner.py](https://github.com/tlantela/KiCAD_layout_cloner/blob/master/layout_cloner.py)
+- [KiCadの基板の大きさをpythonで測る](https://asukiaaa.blogspot.com/2021/02/kicadpython.html)
+- [KiCadの基板を行列状に配置する](https://asukiaaa.blogspot.com/2021/03/clone-items-on-kicad-pcb.html)
